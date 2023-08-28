@@ -41,7 +41,7 @@ The patcher is designed to target **macOS Big Sur 11.x to macOS Ventura 13.x**.
 | MacBook Air (13-inch, Late 2008)<br>MacBook Air (13-inch, Mid 2009) | `MacBookAir2,1` | - [non-Metal GPU (macOS 11+)](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/108)<br>- [USB 1.1 (macOS 13+)](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/1021)| 
 | MacBook Air (11-inch, Late 2010) | `MacBookAir3,1` | ^^ | 
 | MacBook Air (13-inch, Late 2010) | `MacBookAir3,2` | ^^ | 
-| MacBook Air (11-inch, Mid 2011) | `MacBookAir4,1` | ^^ | 
+| MacBook Air (11-inch, Mid 2011) | `MacBookAir4,1` | - [non-Metal GPU (macOS 11+)](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/108) | 
 | MacBook Air (13-inch, Mid 2011) | `MacBookAir4,2` | ^^ | 
 | MacBook Air (11-inch, Mid 2012) | `MacBookAir5,1` | - [Legacy Metal (macOS 13+)](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/1008) |
 | MacBook Air (13-inch, Mid 2012) | `MacBookAir5,2` | ^^ | 
@@ -107,7 +107,7 @@ The patcher is designed to target **macOS Big Sur 11.x to macOS Ventura 13.x**.
 | iMac (20-inch, Early 2008)<br>iMac (24-inch, Early 2008) | `iMac8,1` | - [non-Metal GPU (macOS 11+)](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/108)<br>- [USB 1.1 (macOS 13+)](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/1021) |
 | iMac (20-inch, Early 2009)<br>iMac (24-inch, Early 2009)<br>iMac (20-inch, Mid 2009) | `iMac9,1` | - [non-Metal GPU (macOS 11+)](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/108)<br>- [USB 1.1 (macOS 13+)](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/1021)<br>- [Recommend upgrading to Metal GPU](https://forums.macrumors.com/threads/2011-imac-graphics-card-upgrade.1596614/?post=17425857#post-17425857) |
 | iMac (21.5-inch, Late 2009)<br>iMac (27-inch, Late 2009)| `iMac10,1` | ^^ |
-| iMac (27-inch, Late 2009) | `iMac11,1` | ^^ |
+| iMac (27-inch, Late 2009) | `iMac11,1` | - [non-Metal GPU (macOS 11+)](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/108)<br>- [Recommend upgrading to Metal GPU](https://forums.macrumors.com/threads/2011-imac-graphics-card-upgrade.1596614/?post=17425857#post-17425857) |
 | iMac (21.5-inch, Mid 2010) | `iMac11,2` | ^^ |
 | iMac (27-inch, Mid 2010) | `iMac11,3` | ^^ |
 | iMac (21.5-inch, Mid 2011)<br>iMac (21.5-inch, Late 2011) | `iMac12,1` | ^^ |
