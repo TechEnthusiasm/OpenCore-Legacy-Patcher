@@ -22,4 +22,5 @@ Users who wish to opt-out can do so either via the application's preferences or 
 defaults write com.dortania.opencore-legacy-patcher DisableCrashAndAnalyticsReporting -bool true
 ```
 
+![](./images/privacyimage.png)
 To have your data removed, please contact us via our [Discord server](https://discord.gg/rqdPgH8xSN) and provide the UUID of your system.
